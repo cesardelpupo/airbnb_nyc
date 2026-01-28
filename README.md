@@ -1,4 +1,16 @@
+![GitHub stars](https://img.shields.io/github/stars/cesardelpupo/airbnb_nyc)
+![GitHub forks](https://img.shields.io/github/forks/cesardelpupo/airbnb_nyc)
+
 # Relatório Airbnb NYC | 2011–2019
+
+## Sumário
+1. [Problema de negócio](#problema-de-negócio)
+2. [Premissas](#premissas-assumidas-para-a-análise)
+3. [Etapa 1 - Preparação dos Dados](#etapa-1--preparação-dos-dados-e-regras-de-negócios)
+4. [Etapa 2 - Análise e Dashboard](#etapa-2---análise-e-dashboard)
+5. [Conclusão](#conclusão)
+6. [Entrega final do Projeto](#entrega-final-do-projeto)
+7. [Sugestões](#próximos-passos--sugestões-futuras)
 
 ## Problema de negócio
 
@@ -207,6 +219,7 @@ O crescimento da oferta está mais associado à expansão de portfólios de anfi
 <br />
 
 ## Conclusão
+
 Do ponto de vista analítico, o projeto evidencia que a oferta de anúncios do Airbnb em Nova York é altamente concentrada, tanto em termos territoriais quanto no nível de bairros. Distritos com menor número de bairros, como Manhattan, apresentam uma densidade de anúncios significativamente superior à média geral, enquanto a análise de Pareto demonstra que uma parcela reduzida dos bairros concentra a maior parte da oferta disponível na cidade. As análises de engajamento e de receita estimada reforçam que volume de anúncios, isoladamente, não é  o único fator determinante de desempenho. Distritos com menor participação na oferta total, como Queens, podem apresentar desempenho relativo superior em métricas normalizadas, como receita média por anúncio, evidenciando a importância de análises comparativas para uma leitura mais precisa do mercado.
 <br>
 <br />
@@ -223,7 +236,7 @@ Assim, compreender essas nuances é fundamental para evitar decisões generalist
 
 
 ## Entrega final do Projeto
-**Acesso ao relatório:** https://app.powerbi.com/view?r=eyJrIjoiMjJjZjJhZWMtNTkzNS00MjYyLWEyMTItZjUxMDhiYmQwMTgzIiwidCI6IjMxYzdjNzA5LWZkOWQtNGIyNS05NTliLWI2ZGJiMGQ4Y2RlNiJ9
+**Relatório Interativo - Acesse aqui:** https://app.powerbi.com/view?r=eyJrIjoiMjJjZjJhZWMtNTkzNS00MjYyLWEyMTItZjUxMDhiYmQwMTgzIiwidCI6IjMxYzdjNzA5LWZkOWQtNGIyNS05NTliLWI2ZGJiMGQ4Y2RlNiJ9
 <br>
 <br />
 
